@@ -2,7 +2,9 @@
 
 ## Plain Dosa added
 
-* Batter added
-* oil added 
+- Batter added
+- oil added
 
 ## Karam Dosa added
+
+- Batter added
